@@ -4,6 +4,7 @@
 - Always open to projects that merge design and technology
 - Favorite Season is Winter
 
+<!--
 ## Tech Stack
 ### Language : 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +20,11 @@
 
 ## Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://brandonpratama.com) [![Resume](https://img.shields.io/badge/Resume-%2300BFA5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Unnamedhat88/Portfolio_3D/blob/main/public/Brandon_Kwee_Resume.pdf)
-
+-->
+## Projects
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| [3D Portfolio](https://brandonpratama.com)<br><br> [[Link to Repo]](https://github.com/Unnamedhat88/Portfolio_3D) | Interactive and immersive 3D portfolio<br> showcasing my projects and certificates| - **Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white), ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) <br> - **Frontend/3D:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Three Fiber](https://img.shields.io/badge/R3F-%231d1d1d?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GLSL](https://img.shields.io/badge/GLSL-%23ff6600?style=for-the-badge&logo=shaderlab&logoColor=white) <br> - **Styling:** ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> - **Deployment:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 
 
 
