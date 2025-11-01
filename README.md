@@ -1,8 +1,12 @@
-## About me 👋
+## About me 
 - Studied Information Science and Engineering at Ritsumeikan University
 - Diving into 3D web development, Artificial Intelligence, and Software Development
 - Always open to projects that merge design and technology
 - Favorite Season is Winter
+
+## Core Skills
+Full-Stack Development • Machine Learning • React • 3D Web Visualization
+
 
 <!--
 ## Tech Stack
@@ -24,17 +28,22 @@
 ## Projects
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-| [3D Portfolio](https://brandonpratama.com)<br><br> [[Link to Repo]](https://github.com/Unnamedhat88/Portfolio_3D) | Interactive and immersive 3D portfolio<br> showcasing my projects and certificates| - **Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white), ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) <br> - **Frontend/3D:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Three Fiber](https://img.shields.io/badge/R3F-%231d1d1d?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GLSL](https://img.shields.io/badge/GLSL-%23ff6600?style=for-the-badge&logo=shaderlab&logoColor=white) <br> - **Styling:** ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> - **Deployment:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| [3D Portfolio](https://brandonpratama.com)<br><br> [[Link to Repo]](https://github.com/Unnamedhat88/Portfolio_3D) | Interactive and immersive 3D portfolio showcasing my projects and certificates| - **Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) <br> - **Frontend/3D:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Three Fiber](https://img.shields.io/badge/R3F-%231d1d1d?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GLSL](https://img.shields.io/badge/GLSL-%23ff6600?style=for-the-badge&logo=shaderlab&logoColor=white) <br> - **Styling:** ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> - **Deployment:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| [Logic Circuit Simulator]<br><br> [Link to Repo] | Interactive simulator for logic gates with an auto-generated truth table feature | - **Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br> - **Frontend:** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> - **Styling:** ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> - **Deployment:** ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| [Pollen Mapping System]<br><br> [[Link to Repo]](https://github.com/Unnamedhat88/PollenMappingProject) |Web platform visualizing pollen-affected areas from crowd-sourced plant images. Handled frontend, backend, and model integration | - **Frontend:** ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Leaflet](https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white)<br> - **Backend / Integration:** ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) <br>
+
+
+## Portfolio & Resume
+
+📄 [**Resume (PDF)**](https://github.com/Unnamedhat88/Portfolio_3D/blob/main/public/Brandon_Kwee_Resume.pdf)  
+🌐 [**Portfolio Website**](https://brandonpratama.com)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/brandonpratamakwee/)
 
 
 
 
 
 <!--
-## Projects
-
-## Exploring Now
-
 ## Socials
 **Unnamedhat88/Unnamedhat88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
