@@ -37,7 +37,7 @@ Full-Stack Development • Machine Learning • React • 3D Web Visualization
 
 📄 [**Resume (PDF)**](https://github.com/Unnamedhat88/Portfolio_3D/blob/main/public/Brandon_Kwee_Resume.pdf)  
 🌐 [**Portfolio Website**](https://brandonpratama.com)  
-💼 [**LinkedIn**](www.linkedin.com/in/brandon-pratama-kwee-354576302)
+💼 [**LinkedIn**](www.linkedin.com/in/brandon-pratama-kwee)
 
 
 
